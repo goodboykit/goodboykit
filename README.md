@@ -1,4 +1,4 @@
-![Profile Views](https://visitcount.itsvg.in/api?id=goodboykit&icon=5&color=12)
+![Profile Views](https://komarev.com/ghpvc/?username=goodboykit&color=blue&style=flat-square&label=Profile+Views)
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=2500&pause=1000&color=0160C9&center=true&vCenter=true&random=false&width=435&height=35&lines=Hi%2C+I'm+Kit+Nicholas+Santiago" alt="Typing SVG">
@@ -180,12 +180,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goodboykit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=goodboykit&theme=tokyonight&hide_border=true" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goodboykit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=goodboykit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goodboykit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goodboykit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
 ---
