@@ -22,7 +22,6 @@
 - 🎓 4th Year BS Information Technology student at **National University Manila**
 - 🏆 **Dean's First Honor List** achiever (Consistent academic excellence)
 - 📱 Specializing in **Mobile & Web Applications**
-- 🎨 Passionate about **UI/UX Design** and creating accessible applications
 - 💡 **Literexia** - an assistive learning app for dyslexic students (deployed in real SPED classes)
 - 🏥 **Smart Test HIV** - anonymous HIV testing platform (Top 5 at DLSU Hacker-Cup)
 - 🌱 **EcoDex** - gamified environmental awareness app (Top 3 at NU Ideathon)
