@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=goodboykit&color=blue&style=flat-square&label=Profile+Views)
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=2500&pause=1000&color=0160C9&center=true&vCenter=true&random=false&width=435&height=35&lines=Hi%2C+I'm+Kit+Nicholas+Santiago" alt="Typing SVG">
