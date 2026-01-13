@@ -85,35 +85,29 @@
 ## 📊 Github Stats:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=goodboykit&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="Kit Nicholas Santiago github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodboykit&layout=compact&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=goodboykit&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" /> 
+  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=goodboykit&layout=compact&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <br>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/goodboykit">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goodboykit&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&title_color=70a5fd"/>
-  </a> 
-</p>
+<!-- Contribution Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=goodboykit&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 <br>
 
 <!-- Streak Stats -->
-<p align="center">
-   <a href="https://github.com/goodboykit"> 
-     <img width="55%" src="https://streak-stats.demolab.com/?user=goodboykit&theme=tokyonight&hide_border=true&background=0d1117&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" /> 
-   </a>  
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=goodboykit&theme=tokyonight&hide_border=true" />
+</div>
 
 <br>
 
 <!-- Trophies -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/api/?username=goodboykit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="goodboykit" />
-  </a>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/api/?username=goodboykit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 <br>
@@ -130,5 +124,5 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
