@@ -14,6 +14,9 @@
     \/__/         \/__/                     \/__/         \/__/       \/__/         \/__/              
 </pre>
 
+
+
+
 ## 👨‍💻 About Me:
 
 - 🎓 4th Year BS Information Technology student at **National University Manila**
@@ -30,6 +33,9 @@
 - 🌟 Currently completing **Google Data Analytics Professional Certificate**
 - 💼 Open for internship opportunities to create meaningful impact through technology
 
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</div>
 ## 🛠️ Skill Set:
 
 <table><tr><td valign="top" width="33%">
@@ -79,12 +85,6 @@
 </div>
 
 ## 📊 Github Stats:
-<p align="center">
-    <a href="https://github.com/goodboykit">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goodboykit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodboykit&langs_count=12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    </a>
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -93,25 +93,13 @@
   </a> 
 </p>
 
-<p align="center">
-   <a href="https://github.com/goodboykit"> 
-     <img width="80%" src="https://streak-stats.demolab.com/?user=goodboykit&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" /> 
-   </a>  
-</p>
 
 <br>
 
 <div id="header" align="center">
   
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api/?username=goodboykit&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="goodboykit" /></a> </p>
 
   <img src="https://komarev.com/ghpvc/?username=goodboykit&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</div>
